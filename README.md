@@ -72,3 +72,8 @@
 ```
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Watch the video](https://github.com/MuhammadMudassirRaza12345/Pipe-Data-with-Airflow-Assignment-Part-1/blob/main/airflow%20assignment%20explaination.mp4)
+
+<img src="image_269.png">
+<img src="image_281.png">
+
