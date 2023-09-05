@@ -1,20 +1,21 @@
 # Pipe-Data-with-Airflow-Task-Part-1
  
- TASK : SCRAP - INGEST - ORCHESTRATE - DEPLOY
+ `TASK : SCRAP - INGEST - ORCHESTRATE - DEPLOY`
 
 ## Preamble:
-- This Task will be testing all your previously learned knowledge to demonstrate a integrated understanding of process involved to bring data into useful information with process such as Acquisition, Transformation, Orchestration and Delivery/Deployment on Cloud
+`- This Task will be testing all your previously learned knowledge to demonstrate a integrated understanding of process involved to bring data into useful information with process such as Acquisition, Transformation, Orchestration and Delivery/Deployment on Cloud`
 
-Please note this is Part 1 of Task, We will have part 2 when StreamLit is Completed.
+`Please note this is Part 1 of Task, We will have part 2 when StreamLit is Completed.`
 
 ## Context:
-You are working as a Data Engineer for Consumer Financial Protection Bureau and this is a critical task assigned to you by the Director Data Engineering, which guarantees your confirmation at the workplace!
+`You are working as a Data Engineer for Consumer Financial Protection Bureau and this is a critical task assigned to you by the Director Data Engineering, which guarantees your confirmation at the workplace!`
 
 ## About CFBP:
-- The Consumer Financial Protection Bureau is a U.S. government agency that makes sure banks, lenders, and other financial companies treat you fairly.
+`- The Consumer Financial Protection Bureau is a U.S. government agency that makes sure banks, lenders, and other financial companies treat you fairly.`
 
 ## Task details: <An excerpt from the Email>
 
+  ```
   Hi,
 
   We have a frequent request from our internal stakeholders to be provided with an upto date dashboard for their monitoring purpose., 
@@ -68,6 +69,6 @@ You are working as a Data Engineer for Consumer Financial Protection Bureau and 
   results=requests.get(url.format(size,max_date, min_date, state)).json()
   
   4. Dumping Data into Google Sheets : See Mentioned Video and Code Repo 
-
+```
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
