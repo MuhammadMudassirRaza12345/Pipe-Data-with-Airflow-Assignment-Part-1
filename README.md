@@ -1,4 +1,4 @@
-# Pipeline Data with Airflow
+# Pipeline Data with Airflow (part1)
 
  
     instruction : 
@@ -90,6 +90,23 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 `Watch the video in this repository with name is airflow_assignment_explaination.mp4` 
 
+
 <img src="image_269.png">
 <img src="image_281.png">
+
+# Display with Data with Streamlit, Financial Consumer Complaints across the state  (part2)
+
+   `Developed and implemented a Streamlit dashboard for visualizing financial consumer complaints across states, extracting data from Google Sheets generated in the previous step. The interactive dashboard provided stakeholders with 
+   state-wise insights and actionable items.`
+
+   `solution : Streamlit.py`
+
+
+# 📦 stream_lit Dashboard   
+
+This is a dashboard app created in Python using Streamlit.
+
+## Demo App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://muhammadmudassirraza12345-stream-lit-google-sheet-w15ryk.streamlit.app/)   
 
