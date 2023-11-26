@@ -1,4 +1,19 @@
-# Pipe-Data-with-Airflow-Task-Part-1
+# Pipeline Data with Airflow
+
+ 
+     instruction : 
+ 
+    Pipeline Data with Airflow, Consumer Financial Protection Bureau
+   
+    we already have an API available for consumption which has parameters. We have frequent requests from our internal stakeholders to be
+    provided with an up-to-date dashboard for their monitoring purpose of State, From Date To Date, you can sample fetch data from it.
+    1) we used this list for Recursion on API to get all states' Data.
+    
+    ﻿2) API Hit URL
+     
+    3) Scrapping of Data for Washington State for Today
+    
+    4) Dumping Data into Google Sheets  results=requests.get(url.format(size,max_date, min_date, state)).json()
  
  `TASK : SCRAP - INGEST - ORCHESTRATE - DEPLOY`
 
@@ -65,8 +80,9 @@
   print(url.format(size,max_date, min_date, state))
   
   import requests
-  
-  results=requests.get(url.format(size,max_date, min_date, state)).json()
+
+
+
   
   4. Dumping Data into Google Sheets : See Mentioned Video and Code Repo 
 ```
